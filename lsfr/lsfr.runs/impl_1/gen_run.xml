@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7vx485tffg1157-1" LaunchTime="1727884743">
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="mylsfr_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS" Name="mylsfr_routed.rqs"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BG-DRC" Name="mylsfr.drc"/>
+  <File Type="BG-BGN" Name="mylsfr.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="mylsfr.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="mylsfr.ltx"/>
+  <File Type="RBD_FILE" Name="mylsfr.rbd"/>
+  <File Type="NPI_FILE" Name="mylsfr.npi"/>
+  <File Type="RNPI_FILE" Name="mylsfr.rnpi"/>
+  <File Type="CFI_FILE" Name="mylsfr.cfi"/>
+  <File Type="RCFI_FILE" Name="mylsfr.rcfi"/>
+  <File Type="RDI-RDI" Name="mylsfr.vdi"/>
+  <File Type="PDI-FILE" Name="mylsfr.pdi"/>
+  <File Type="BITSTR-MMI" Name="mylsfr.mmi"/>
+  <File Type="BITSTR-BMM" Name="mylsfr_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="mylsfr.nky"/>
+  <File Type="BITSTR-RBT" Name="mylsfr.rbt"/>
+  <File Type="BITSTR-MSK" Name="mylsfr.msk"/>
+  <File Type="BG-BIN" Name="mylsfr.bin"/>
+  <File Type="BG-BIT" Name="mylsfr.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="mylsfr_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="mylsfr_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="mylsfr_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="mylsfr_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="mylsfr_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="mylsfr_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="mylsfr_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="mylsfr_postroute_physopt.dcp"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="mylsfr_bus_skew_routed.rpx"/>
+  <File Type="PA-TCL" Name="mylsfr.tcl"/>
+  <File Type="INIT-TIMING" Name="mylsfr_timing_summary_init.rpt"/>
+  <File Type="OPT-DCP" Name="mylsfr_opt.dcp"/>
+  <File Type="OPT-DRC" Name="mylsfr_drc_opted.rpt"/>
+  <File Type="PLACE-TIMING" Name="mylsfr_timing_summary_placed.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="mylsfr_methodology_drc_opted.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="mylsfr_utilization_placed.pb"/>
+  <File Type="OPT-HWDEF" Name="mylsfr.hwdef"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="mylsfr_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="REPORTS-TCL" Name="mylsfr_reports.tcl"/>
+  <File Type="OPT-TIMING" Name="mylsfr_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="mylsfr_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="mylsfr_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="mylsfr_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="mylsfr_placed.dcp"/>
+  <File Type="PLACE-IO" Name="mylsfr_io_placed.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="mylsfr_timing_summary_physopted.rpt"/>
+  <File Type="PLACE-CLK" Name="mylsfr_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="mylsfr_utilization_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="mylsfr_control_sets_placed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="mylsfr_methodology_drc_routed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="mylsfr_incremental_reuse_placed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="mylsfr_methodology_drc_routed.pb"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="mylsfr_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="mylsfr_drc_routed.rpx"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="mylsfr_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="mylsfr_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="mylsfr_drc_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="mylsfr_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="mylsfr_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="mylsfr_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="mylsfr_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="mylsfr_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="mylsfr_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="mylsfr_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="mylsfr_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="mylsfr_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="mylsfr_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="mylsfr_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="mylsfr_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="mylsfr_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="mylsfr_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="mylsfr_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="mylsfr_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="mylsfr_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="mylsfr_bus_skew_routed.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/mylsfr.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="mylsfr"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2022"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
